@@ -1,0 +1,792 @@
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\ManagingPersonalContacts.dll.config
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\ManagingPersonalContacts.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\ManagingPersonalContacts.pdb
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Antlr3.Runtime.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\EntityFramework.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\EntityFramework.SqlServer.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Google.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Web.Infrastructure.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Newtonsoft.Json.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Owin.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.Helpers.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.Mvc.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.Optimization.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.Razor.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.WebPages.Deployment.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.WebPages.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.WebPages.Razor.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\WebGrease.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.Helpers.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.Mvc.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.Optimization.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.Razor.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.WebPages.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.WebPages.Deployment.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.WebPages.Razor.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Newtonsoft.Json.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Antlr3.Runtime.pdb
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\EntityFramework.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\EntityFramework.SqlServer.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Google.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.csprojResolveAssemblyReference.cache
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.pdb
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.dll.config
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.pdb
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Antlr3.Runtime.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.SqlServer.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Google.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Web.Infrastructure.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Newtonsoft.Json.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Owin.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Helpers.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Mvc.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Optimization.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Razor.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Deployment.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Razor.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\WebGrease.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Helpers.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Mvc.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Optimization.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Razor.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Deployment.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Razor.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Newtonsoft.Json.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Antlr3.Runtime.pdb
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.SqlServer.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Google.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.csprojResolveAssemblyReference.cache
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.pdb
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.dll.config
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.pdb
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Antlr3.Runtime.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\EntityFramework.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\EntityFramework.SqlServer.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Google.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Web.Infrastructure.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Newtonsoft.Json.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Owin.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\System.Web.Helpers.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\System.Web.Mvc.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\System.Web.Optimization.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\System.Web.Razor.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Deployment.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Razor.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\WebGrease.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\System.Web.Helpers.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\System.Web.Mvc.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\System.Web.Optimization.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\System.Web.Razor.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Deployment.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Razor.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Newtonsoft.Json.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Antlr3.Runtime.pdb
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\EntityFramework.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\EntityFramework.SqlServer.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Google.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.csprojResolveAssemblyReference.cache
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.pdb
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.dll.config
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.pdb
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Antlr3.Runtime.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\EntityFramework.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\EntityFramework.SqlServer.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Google.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Web.Infrastructure.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Newtonsoft.Json.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Owin.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\System.Web.Helpers.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\System.Web.Mvc.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\System.Web.Optimization.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\System.Web.Razor.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Deployment.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Razor.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\WebGrease.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\System.Web.Helpers.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\System.Web.Mvc.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\System.Web.Optimization.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\System.Web.Razor.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Deployment.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Razor.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Newtonsoft.Json.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Antlr3.Runtime.pdb
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\EntityFramework.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\EntityFramework.SqlServer.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Google.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.csprojResolveAssemblyReference.cache
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.dll
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.pdb
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.Migrations.Initial01.resources
+D:\ManagingPersonalContacts_Invelop\ManagingPersonalContacts - Copy - Copy - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.csproj.GenerateResource.Cache
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\ManagingPersonalContacts.dll.config
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\ManagingPersonalContacts.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\ManagingPersonalContacts.pdb
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Antlr3.Runtime.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\EntityFramework.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\EntityFramework.SqlServer.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Google.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Web.Infrastructure.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Newtonsoft.Json.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Owin.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.Helpers.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.Mvc.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.Optimization.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.Razor.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.WebPages.Deployment.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.WebPages.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.WebPages.Razor.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\WebGrease.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.Helpers.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.Mvc.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.Optimization.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.Razor.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.WebPages.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.WebPages.Deployment.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.WebPages.Razor.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Newtonsoft.Json.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Antlr3.Runtime.pdb
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\EntityFramework.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\EntityFramework.SqlServer.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Google.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.csprojResolveAssemblyReference.cache
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.Migrations.Initial01.resources
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.csproj.GenerateResource.Cache
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.pdb
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.dll.config
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.pdb
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Antlr3.Runtime.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.SqlServer.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Google.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Web.Infrastructure.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Newtonsoft.Json.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Owin.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Helpers.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Mvc.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Optimization.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Razor.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Deployment.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Razor.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\WebGrease.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Helpers.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Mvc.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Optimization.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Razor.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Deployment.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Razor.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Newtonsoft.Json.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Antlr3.Runtime.pdb
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.SqlServer.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Google.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.csprojResolveAssemblyReference.cache
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.Migrations.Initial01.resources
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.csproj.GenerateResource.Cache
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.dll
+D:\ManagingPersonalContacts_Invelop\4_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.pdb
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\ManagingPersonalContacts.dll.config
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\ManagingPersonalContacts.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\ManagingPersonalContacts.pdb
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Antlr3.Runtime.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\EntityFramework.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\EntityFramework.SqlServer.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Google.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Web.Infrastructure.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Newtonsoft.Json.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Owin.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.Helpers.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.Mvc.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.Optimization.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.Razor.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.WebPages.Deployment.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.WebPages.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.WebPages.Razor.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\WebGrease.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.Helpers.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.Mvc.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.Optimization.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.Razor.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.WebPages.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.WebPages.Deployment.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\System.Web.WebPages.Razor.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Newtonsoft.Json.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Antlr3.Runtime.pdb
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\EntityFramework.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\EntityFramework.SqlServer.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Google.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.csprojResolveAssemblyReference.cache
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.Migrations.Initial01.resources
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.csproj.GenerateResource.Cache
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.pdb
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.dll.config
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.pdb
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Antlr3.Runtime.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.SqlServer.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Google.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Web.Infrastructure.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Newtonsoft.Json.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Owin.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Helpers.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Mvc.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Optimization.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Razor.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Deployment.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Razor.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\WebGrease.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Helpers.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Mvc.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Optimization.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Razor.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Deployment.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Razor.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Newtonsoft.Json.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Antlr3.Runtime.pdb
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.SqlServer.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Google.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.csprojResolveAssemblyReference.cache
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.dll
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.pdb
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.Migrations.Initial.resources
+D:\ManagingPersonalContacts_Invelop\5_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.csproj.GenerateResource.Cache
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.dll.config
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.dll
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.pdb
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Antlr3.Runtime.dll
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.dll
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.SqlServer.dll
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.dll
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.dll
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Google.dll
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Web.Infrastructure.dll
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Newtonsoft.Json.dll
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Owin.dll
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Helpers.dll
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Mvc.dll
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Optimization.dll
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Razor.dll
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Deployment.dll
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.dll
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Razor.dll
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\WebGrease.dll
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Helpers.xml
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Mvc.xml
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Optimization.xml
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Razor.xml
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.xml
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Deployment.xml
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Razor.xml
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Newtonsoft.Json.xml
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Antlr3.Runtime.pdb
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.xml
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.SqlServer.xml
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.xml
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.xml
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Google.xml
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.csprojResolveAssemblyReference.cache
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.dll
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.pdb
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.Migrations.Initial001.resources
+D:\ManagingPersonalContacts_Invelop\6_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.csproj.GenerateResource.Cache
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.dll.config
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.dll
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.pdb
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Antlr3.Runtime.dll
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.dll
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.SqlServer.dll
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.dll
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.dll
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Google.dll
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Web.Infrastructure.dll
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Newtonsoft.Json.dll
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Owin.dll
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Helpers.dll
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Mvc.dll
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Optimization.dll
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Razor.dll
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Deployment.dll
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.dll
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Razor.dll
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\WebGrease.dll
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Helpers.xml
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Mvc.xml
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Optimization.xml
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Razor.xml
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.xml
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Deployment.xml
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Razor.xml
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Newtonsoft.Json.xml
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Antlr3.Runtime.pdb
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.xml
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.SqlServer.xml
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.xml
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.xml
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Google.xml
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.csprojResolveAssemblyReference.cache
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.Migrations.Initial001.resources
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.csproj.GenerateResource.Cache
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.dll
+D:\ManagingPersonalContacts_Invelop\7_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.pdb
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.dll.config
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.dll
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.pdb
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Antlr3.Runtime.dll
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.dll
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.SqlServer.dll
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.dll
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.dll
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Google.dll
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Web.Infrastructure.dll
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Newtonsoft.Json.dll
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Owin.dll
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Helpers.dll
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Mvc.dll
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Optimization.dll
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Razor.dll
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Deployment.dll
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.dll
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Razor.dll
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\WebGrease.dll
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Helpers.xml
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Mvc.xml
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Optimization.xml
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Razor.xml
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.xml
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Deployment.xml
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Razor.xml
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Newtonsoft.Json.xml
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Antlr3.Runtime.pdb
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.xml
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.SqlServer.xml
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.xml
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.xml
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Google.xml
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.csprojResolveAssemblyReference.cache
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.Migrations.Initial001.resources
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.csproj.GenerateResource.Cache
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.dll
+D:\ManagingPersonalContacts_Invelop\8_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.pdb
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.dll.config
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.dll
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.pdb
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Antlr3.Runtime.dll
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.dll
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.SqlServer.dll
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.dll
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.dll
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Google.dll
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Web.Infrastructure.dll
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Newtonsoft.Json.dll
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Owin.dll
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Helpers.dll
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Mvc.dll
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Optimization.dll
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Razor.dll
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Deployment.dll
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.dll
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Razor.dll
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\WebGrease.dll
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Helpers.xml
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Mvc.xml
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Optimization.xml
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Razor.xml
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.xml
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Deployment.xml
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Razor.xml
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Newtonsoft.Json.xml
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Antlr3.Runtime.pdb
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.xml
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.SqlServer.xml
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.xml
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.xml
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Google.xml
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.csprojResolveAssemblyReference.cache
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.Migrations.Initial001.resources
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.csproj.GenerateResource.Cache
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.dll
+D:\ManagingPersonalContacts_Invelop\9_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.pdb
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.dll.config
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.dll
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.pdb
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Antlr3.Runtime.dll
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.dll
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.SqlServer.dll
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.dll
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.dll
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Google.dll
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Web.Infrastructure.dll
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Newtonsoft.Json.dll
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Owin.dll
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Helpers.dll
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Mvc.dll
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Optimization.dll
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Razor.dll
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Deployment.dll
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.dll
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Razor.dll
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\WebGrease.dll
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Helpers.xml
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Mvc.xml
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Optimization.xml
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Razor.xml
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.xml
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Deployment.xml
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Razor.xml
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Newtonsoft.Json.xml
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Antlr3.Runtime.pdb
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.xml
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.SqlServer.xml
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.xml
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.xml
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Google.xml
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.csprojResolveAssemblyReference.cache
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.Migrations.Initial001.resources
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.csproj.GenerateResource.Cache
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.dll
+D:\ManagingPersonalContacts_Invelop\10_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.pdb
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.dll.config
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.dll
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\ManagingPersonalContacts.pdb
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Antlr3.Runtime.dll
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.dll
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.SqlServer.dll
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.dll
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.dll
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Google.dll
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Web.Infrastructure.dll
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Newtonsoft.Json.dll
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Owin.dll
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Helpers.dll
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Mvc.dll
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Optimization.dll
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Razor.dll
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Deployment.dll
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.dll
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Razor.dll
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\WebGrease.dll
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Helpers.xml
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Mvc.xml
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Optimization.xml
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.Razor.xml
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.xml
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Deployment.xml
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\System.Web.WebPages.Razor.xml
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Newtonsoft.Json.xml
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Antlr3.Runtime.pdb
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.xml
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\EntityFramework.SqlServer.xml
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.xml
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.xml
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Google.xml
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.csprojResolveAssemblyReference.cache
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.Migrations.Initial001.resources
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.csproj.GenerateResource.Cache
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.dll
+D:\ManagingPersonalContacts_Invelop\11_ManagingPersonalContacts - Copy\ManagingPersonalContacts\obj\Debug\ManagingPersonalContacts.pdb
