@@ -1,0 +1,99 @@
+﻿@model IEnumerable<ManagingPersonalContacts.Models.PhoneNumber>
+
+@{
+    ViewBag.Title = "Phone Number";
+}
+
+<div id="divButtonPhone" style="display:block">
+    <br />
+    <a class="btn btn-default" onclick="toggleDivPhone(true);" title="Open records">
+        @String.Format("({0})", @Model.Count()) &raquo;
+    </a>
+</div>
+
+<div id="divTablePhone" style="display:none">
+    <br />
+    <a class="btn btn-default" onclick="toggleDivPhone(true);" title="Close records">
+        @String.Format("({0})", @Model.Count()) &laquo;
+    </a>
+    |
+    <a class="btn btn-default" href="~/PhoneNumbers/Create/?PcID=@Model.FirstOrDefault().PersonalContactID" title="Create New">
+        Create New
+    </a>
+
+    <p>
+        @*
+            @Html.ActionLink("Create New", "Create")
+        *@
+    </p>
+    
+    <table class="table">
+        <tr class="tline">
+            <th>
+                @Html.DisplayNameFor(model => model.PersonalContact.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PhoneNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Desc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Default)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PersonalContact.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PhoneNo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Desc)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Default)
+                </td>
+                <td>
+                    @*
+                        @Html.ActionLink("Edit", "Edit", new { id = item.PhoneNumberID }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.PhoneNumberID }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.PhoneNumberID })
+                    *@
+                    <a class="btn btn-default" href="~/PhoneNumbers/Edit/@item.PhoneNumberID" title="Edit">
+                        Edit
+                    </a>
+                    <a class="btn btn-default" href="~/PhoneNumbers/Details/@item.PhoneNumberID" title="Details">
+                        Details
+                    </a>
+                    <a class="btn btn-default" href="~/PhoneNumbers/Delete/@item.PhoneNumberID" title="Delete">
+                        Delete
+                    </a>
+
+                </td>
+            </tr>
+        }
+
+    </table>
+
+    <hr />
+
+</div>
+
+<script>
+    function toggleDivPhone() {
+
+        var divButton = document.getElementById("divButtonPhone");
+        divButton.style.display = (divButton.style.display == "block") ? "none" : "block";
+
+        var divTable = document.getElementById("divTablePhone");
+        divTable.style.display = (divTable.style.display == "block") ? "none" : "block";
+    }
+</script>
+
+

@@ -1,0 +1,111 @@
+﻿@model ManagingPersonalContacts.Models.PersonalContact
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="bootsrapmodal">
+
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <a class="close" href="@String.Format("{0}{1}", "/PersonalContacts/Edit/" , @Model.PersonalContactID)" title="Close"><span>&times;</span></a>
+                <div class="modal-title"><b>Personal Contacts</b></div>
+            </div>
+
+            <div class="modal-body">
+                <p>
+                    <h5>
+                        Are you sure you want to delete this?
+                    </h5>
+
+                    <img src="~/files/@Model.ImgFileNameGen" width="200" />
+
+                    @if (ViewBag.MessageJH2 != null)
+                    {
+                        <br />
+                        <b>
+                            @ViewBag.MessageJH2
+                        </b>
+                    }
+                </p>
+
+                <p>
+                    @if (ViewBag.MessageJ != null)
+                    {
+                        @ViewBag.MessageJ
+                    }
+
+                    @if (ViewBag.MessageJ2 != null)
+                    {
+                        <br />
+                        @ViewBag.MessageJ2
+                    }
+                </p>
+
+                <!-- NEW Script -->
+                <script>
+                    function toggleMessage() {
+
+                        var buttons = document.getElementById("buttonsIndex");
+                        buttons.style.display = (buttons.style.display == "block") ? "none" : "block";
+
+                        var buttons = document.getElementById("buttonsIndm");
+                        buttons.style.display = (buttons.style.display == "block") ? "none" : "block";
+                    }
+                </script>
+
+                <!-- Buttons TableIndex -->
+                <div id="buttonsIndex" style="display:block">
+                    <div title="Additional info">
+                        <p>
+                            <a id="loginLink" onclick="toggleMessage(true);" href="#resize" title="Expand: Additional info">
+                                Additional info
+                                &raquo;
+                            </a>
+                        </p>
+                    </div>
+                </div>
+                <!-- Buttons TableIndm -->
+                <div id="buttonsIndm" style="display:none">
+                    <div class="alert-info">
+                        <p>
+                            <a id="loginLink" class="alert-info" onclick="toggleMessage(true);" href="#resize" title="Collapse">
+                                Additional info
+                                &laquo;
+                            </a>
+                        </p>
+                        &nbsp;
+                        @String.Format("Attached file to Personal Contacts. File: '{0}')", @Model.ImgFileName)
+                    </div>
+                </div>
+                <!-- END NEW Script-->
+            </div>
+
+            <div class="modal-footer">
+                <p>
+                    <input type="submit" value="Delete" class="btn btn-default" />
+                    <a class="btn btn-default" href="@String.Format("{0}{1}", "/PersonalContacts/Edit/" , @Model.PersonalContactID)" title="Cancel">Cancel</a>
+                </p>
+                <p>&copy; @DateTime.Now.Year - Personal Contacts - @DateTime.Now</p>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+}
+
+
+
+
+
+
+

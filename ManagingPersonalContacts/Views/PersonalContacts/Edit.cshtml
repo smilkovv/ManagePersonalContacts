@@ -1,0 +1,159 @@
+﻿@model ManagingPersonalContacts.Models.PersonalContact
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@*  //For the upload of the file
+    @using (Html.BeginForm())
+*@
+@using (Html.BeginForm("Edit", "PersonalContacts", null, FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>PersonalContact</h4>
+        <hr />
+        @Html.ValidationSummary(true)
+        @Html.HiddenFor(model => model.PersonalContactID)
+
+        <!-- Container for file details-->
+        @Html.HiddenFor(model => model.ImgFileName)
+        @Html.HiddenFor(model => model.ImgContentType)
+        @Html.HiddenFor(model => model.ImgContent)
+        @Html.HiddenFor(model => model.ImgFileNameGen)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ImgContent, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+
+                @{if (!String.IsNullOrEmpty(Model.ImgFileNameGen))
+                {
+                    <a href="~/files/@Model.ImgFileNameGen" title="Logo">
+                        <img border="0" alt="Management" src="~/files/@Model.ImgFileNameGen" width="200">
+                    </a>
+
+    <a class="btn btn-default" href="~/PersonalContacts/DeleteFile/@Model.PersonalContactID" title="@String.Format("{0} {1}: {2}", "Delete" , "File", @Model.ImgFileName)">
+            Delete file
+    </a>
+                }
+}
+
+                <input type="file" id="UserImage" name="upload" title="Browse" value="Browse" />
+
+                @if (ViewBag.MsgFile != null)
+                {
+                    <h5 class="text-danger">
+                        @ViewBag.MsgFile
+                    </h5>
+                }
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.FirstName, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.FirstName)
+                @Html.ValidationMessageFor(model => model.FirstName)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.SurName, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.SurName)
+                @Html.ValidationMessageFor(model => model.SurName)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.DateOfBirth, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.DateOfBirth)
+                @Html.ValidationMessageFor(model => model.DateOfBirth)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Address, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @*
+    @Html.EditorFor(model => model.Address)
+    @Html.ValidationMessageFor(model => model.Address)
+*@
+
+                @if (Model.Addresses.Count() > 0)
+                {
+                    @Html.Partial("~/Views/Addresses/_PartialIndex.cshtml", Model.Addresses)
+                }
+                else
+                {
+                    @String.Format("({0})", @Model.Addresses.Count())
+                        <a class="btn btn-default" href="~/Addresses/Create/?PcID=@Model.PersonalContactID" title="Create New">
+                            Add New
+                        </a>
+                }
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.PhoneNumber, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @*
+    @Html.EditorFor(model => model.PhoneNumber)
+    @Html.ValidationMessageFor(model => model.PhoneNumber)
+*@
+
+                @if (Model.PhoneNumbers.Count() > 0)
+                {
+                    @Html.Partial("~/Views/PhoneNumbers/_PartialIndex.cshtml", Model.PhoneNumbers)
+                }
+                else
+                {
+                    @String.Format("({0})", @Model.PhoneNumbers.Count())
+                    <a class="btn btn-default" href="~/PhoneNumbers/Create/?PcID=@Model.PersonalContactID" title="Create New">
+                        Add New
+                    </a>
+                }
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.IBAN, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @*
+    @Html.EditorFor(model => model.IBAN)
+    @Html.ValidationMessageFor(model => model.IBAN)
+*@
+                
+                @if (Model.Banks.Count() > 0)
+                {
+                    @Html.Partial("~/Views/Banks/_PartialIndex.cshtml", Model.Banks)
+                }
+                else
+                {
+                    @String.Format("({0})", @Model.Banks.Count())
+                   <a class="btn btn-default" href="~/Banks/Create/?PcID=@Model.PersonalContactID" title="Create New">
+                       Add New
+                    </a>
+                }
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

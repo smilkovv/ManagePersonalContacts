@@ -1,0 +1,71 @@
+﻿@using ManagingPersonalContacts.Models;
+
+<!-- Toggle Button Theme -->
+<script>
+    function CallChangeTheme(value) {
+        //LoadWait();
+
+        var checkBox = document.getElementById("myCheck");
+        var text = document.getElementById("text");
+        text.style.display = "block";
+
+        //window.location.href = "/UserRegBlocks/ChangeTheme?value=" + value;
+        window.location.href = "/Cookies/ChangeTheme?value=" + checkBox.checked;
+
+        //*alert('Changing theme');
+    }
+</script>
+
+@{if (Request.Cookies[Cookies.ManagingPersonalContactsTheme] != null)
+{
+    if (Request.Cookies[Cookies.ManagingPersonalContactsTheme].Value.ToString() == true.ToString())
+    {
+        <label class="switch">
+            <input type="checkbox" checked id="myCheck" onchange="CallChangeTheme(this.value)">
+            <span class="slider round"></span>
+        </label>
+        <b>Dark Theme</b>
+    }
+    else
+    {
+        <label class="switch">
+            <input type="checkbox" id="myCheck" onchange="CallChangeTheme(this.value)">
+            <span class="slider round"></span>
+        </label>
+        <b>Ligh Theme</b>
+    }
+}
+else
+{
+    <label class="switch">
+        <input type="checkbox" id="myCheck" onchange="CallChangeTheme(this.value)">
+        <span class="slider round"></span>
+    </label>
+    <b>Ligh Theme</b>
+}
+}
+
+<p id="text" style="display:none">
+    <b>
+        Loading ...
+    </b>
+</p>
+
+@*
+    <label class="switch">
+        <input type="checkbox" id="myCheck" onchange="CallChangeTheme(this.value)">
+        <span class="slider round"></span>
+        <b>Dark theme</b>
+    </label>
+
+    <p id="text" style="display:none">Theme changed</p>
+*@
+
+@*
+    <label class="switch">
+        <input type="checkbox" checked onchange="CallChangeTheme(this.value)">
+        <span class="slider round"></span>
+    </label>
+*@
+<!-- END Toggle Button Theme -->
+

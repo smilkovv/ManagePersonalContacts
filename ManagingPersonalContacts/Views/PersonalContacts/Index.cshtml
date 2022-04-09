@@ -1,0 +1,85 @@
+﻿@model IEnumerable<ManagingPersonalContacts.Models.PersonalContact>
+
+@{
+    ViewBag.Title = "Personal Contacts";
+}
+
+<h2>Personal Contacts</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr class="tline">
+        <th>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SurName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ImgFileName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateOfBirth)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PhoneNumber)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IBAN)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.FirstName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SurName)
+        </td>
+        <td title="@item.ImgFileName">
+            @{if (!String.IsNullOrEmpty(item.ImgFileNameGen))
+            {
+                <a href="~/files/@item.ImgFileNameGen" title="Logo">
+                    <img border="0" alt="Management" src="~/files/@item.ImgFileNameGen" width="20">
+                </a>
+            }
+            }
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateOfBirth)
+        </td>
+        <td>
+            @*
+    @Html.DisplayFor(modelItem => item.Address)
+*@
+            @String.Format("({0})", @item.Addresses.Count()) 
+        </td>
+        <td>
+            @*
+    @Html.DisplayFor(modelItem => item.PhoneNumber)
+*@
+            @String.Format("({0})", @item.PhoneNumbers.Count())
+            
+        </td>
+        <td>
+            @*
+    @Html.DisplayFor(modelItem => item.IBAN)
+*@
+            @String.Format("({0})", @item.Banks.Count())
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.PersonalContactID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.PersonalContactID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.PersonalContactID })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,112 @@
+﻿@model ManagingPersonalContacts.Models.PersonalContact
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>PersonalContact</h4>
+	<hr />
+    <dl class="dl-horizontal">
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ImgContent)
+        </dt>
+
+        <dd>
+            @{if (!String.IsNullOrEmpty(Model.ImgFileNameGen))
+            {
+                <a href="~/files/@Model.ImgFileNameGen" title="Logo">
+                    <img border="0" alt="Management" src="~/files/@Model.ImgFileNameGen" width="200">
+                </a>
+            }
+            }
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SurName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SurName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateOfBirth)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateOfBirth)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+
+        <dd>
+            @*
+    @Html.DisplayFor(model => model.Address)
+*@
+            @if (Model.Addresses.Count() > 0)
+            {
+                @Html.Partial("~/Views/Addresses/_PartialIndex.cshtml", Model.Addresses)
+            }
+            else
+            {
+                @String.Format("({0})", @Model.Addresses.Count())
+            }
+        </dd>
+        
+        <dt>
+            @Html.DisplayNameFor(model => model.PhoneNumber)
+        </dt>
+
+        <dd>
+            @*
+    @Html.DisplayFor(model => model.PhoneNumber)
+*@
+
+            @if (Model.PhoneNumbers.Count() > 0)
+            {
+                @Html.Partial("~/Views/PhoneNumbers/_PartialIndex.cshtml", Model.PhoneNumbers)
+            }
+            else
+            {
+                @String.Format("({0})", @Model.PhoneNumbers.Count())
+            }
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IBAN)
+        </dt>
+
+        <dd>
+            @*
+    @Html.DisplayFor(model => model.IBAN)
+*@
+            @if (Model.Banks.Count() > 0)
+            {
+                @Html.Partial("~/Views/Banks/_PartialIndex.cshtml", Model.Banks)
+            }
+            else
+            {
+                @String.Format("({0})", @Model.Banks.Count())
+            }
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.PersonalContactID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

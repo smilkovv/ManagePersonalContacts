@@ -1,0 +1,97 @@
+﻿@model ManagingPersonalContacts.Models.PersonalContact
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>PersonalContact</h4>
+    <hr />
+    <dl class="dl-horizontal">
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ImgContent)
+        </dt>
+
+        <dd>
+            @{if (!String.IsNullOrEmpty(Model.ImgFileNameGen))
+            {
+                <a href="~/files/@Model.ImgFileNameGen" title="Logo">
+                    <img border="0" alt="Management" src="~/files/@Model.ImgFileNameGen" width="200">
+                </a>
+            }
+            }
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SurName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SurName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateOfBirth)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateOfBirth)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+
+        <dd>
+            @*
+    @Html.DisplayFor(model => model.Address)
+*@
+
+            @String.Format("({0})", @Model.Addresses.Count())
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PhoneNumber)
+        </dt>
+
+        <dd>
+            @*
+    @Html.DisplayFor(model => model.PhoneNumber)
+*@
+            @String.Format("({0})", @Model.PhoneNumbers.Count())
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IBAN)
+        </dt>
+
+        <dd>
+            @*
+    @Html.DisplayFor(model => model.IBAN)
+*@
+            @String.Format("({0})", @Model.Banks.Count())
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

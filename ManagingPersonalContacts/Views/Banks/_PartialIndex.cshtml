@@ -1,0 +1,105 @@
+﻿@model IEnumerable<ManagingPersonalContacts.Models.Bank>
+
+@{
+    ViewBag.Title = "Banks";
+}
+
+<div id="divButtonBank" style="display:block">
+    <br />
+    <a class="btn btn-default" onclick="toggleDivBank(true);" title="Open records">
+        @String.Format("({0})", @Model.Count()) &raquo;
+    </a>
+</div>
+
+<div id="divTableBank" style="display:none">
+    <br />
+    <a class="btn btn-default" onclick="toggleDivBank(true);" title="Close records">
+        @String.Format("({0})", @Model.Count()) &laquo;
+    </a>
+    |
+    <a class="btn btn-default" href="~/Banks/Create/?PcID=@Model.FirstOrDefault().PersonalContactID" title="Create New">
+        Create New
+    </a>
+
+    <p>
+        @*
+            @Html.ActionLink("Create New", "Create")
+        *@
+    </p>
+    
+    <table class="table">
+        <tr class="tline">
+            <th>
+                @Html.DisplayNameFor(model => model.PersonalContact.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Desc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IBAN)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Default)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PersonalContact.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Desc)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IBAN)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Default)
+                </td>
+                <td>
+                    @*
+                        @Html.ActionLink("Edit", "Edit", new { id = item.BankID }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.BankID }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.BankID })
+                    *@
+                    <a class="btn btn-default" href="~/Banks/Edit/@item.BankID" title="Edit">
+                        Edit
+                    </a>
+                    <a class="btn btn-default" href="~/Banks/Details/@item.BankID" title="Details">
+                        Details
+                    </a>
+                    <a class="btn btn-default" href="~/Banks/Delete/@item.BankID" title="Delete">
+                        Delete
+                    </a>
+
+                </td>
+            </tr>
+        }
+
+    </table>
+
+    <hr />
+
+</div>
+
+<script>
+    function toggleDivBank() {
+
+        var divButton = document.getElementById("divButtonBank");
+        divButton.style.display = (divButton.style.display == "block") ? "none" : "block";
+
+        var divTable = document.getElementById("divTableBank");
+        divTable.style.display = (divTable.style.display == "block") ? "none" : "block";
+    }
+</script>
+
+
